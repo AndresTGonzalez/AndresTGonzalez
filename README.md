@@ -44,11 +44,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AndresTGonzalez/AndresTGonzalez/output/snake.svg" alt="Snake animation" />
+<h3 align="center">Contact me</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/andrestgonza/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
