@@ -1,55 +1,58 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hola, soy Andrés Tapia
 
-###
+Desarrollador de software ecuatoriano con enfoque en productos digitales de calidad. Me apasiona crear soluciones escalables que conecten diseño, código y valor de negocio, colaborando con equipos multidisciplinarios para entregar experiencias excepcionales.
 
-<p align="left">My name is Andrés Tapia and I'm a Software Engineer from Ecuador. I'm a fullstack coder eager to learn a lot and create new cool applications. 😎</p>
+---
 
-###
+## 🧭 Perfil profesional
 
-<h2 align="left">About me</h2>
+- 💼 **Rol actual:** Full Stack Software Engineer y cofundador de la comunidad Microsoft UTA.
+- 🧠 **Experiencia desde:** 2021, desarrollando aplicaciones web, móviles y servicios backend.
+- 🎯 **Objetivo:** consolidar productos que impacten positivamente a las personas y fortalezcan a los equipos con los que colaboro.
+- 🌍 **Idiomas de trabajo:** Español (nativo) e inglés (profesional).
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React, FastAPI and Flutter<br>🎯 Goals: Degree in Software Engineer and Cofunder in UTA Microsoft Community<br>🎲 Fun fact: Play LOL do you like play a battle?</p>
+## 🛠️ Tecnologías y herramientas
 
-###
+| Frontend | Backend & APIs | Mobile | Bases de datos | DevOps & Cloud | Herramientas |
+| --- | --- | --- | --- | --- | --- |
+| React · Next.js · TypeScript · JavaScript · Tailwind CSS | Node.js · FastAPI · Python | Flutter | PostgreSQL · MongoDB | Docker · GitHub Actions | Git · Jira · Figma |
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🚀 Experiencia destacada
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-</div>
+- Diseño y desarrollo de aplicaciones web full stack utilizando **React**, **Next.js** y **Node.js**.
+- Implementación de APIs rápidas y seguras con **FastAPI** y despliegues contenerizados con **Docker**.
+- Liderazgo técnico en proyectos estudiantiles y comunitarios, fomentando prácticas de desarrollo colaborativo.
 
-###
+---
 
-<h2 align="center">Contact me</h2>
+## 📚 Formación y crecimiento
 
-###
+- 🎓 Ingeniería de Software (en curso).
+- 📖 Formación continua en arquitectura de software, pruebas automatizadas y mejores prácticas de UI/UX.
+- 🔍 Actualmente explorando **Flutter** para experiencias móviles multiplataforma.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/andrestgonza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🌐 Cómo colaborar conmigo
+
+- ✉️ **Correo:** [andres.tapia.gonzalez@gmail.com](mailto:andres.tapia.gonzalez@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/andrestgonza](https://www.linkedin.com/in/andrestgonza/)
+- 🧩 Interesado en contribuir a proyectos open source y en participar en mentorías tecnológicas.
+
+---
+
+## 📊 Indicadores
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresTGonzalez&show_icons=true&theme=default" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresTGonzalez&layout=compact&theme=default" alt="Top languages" height="165" />
+</p>
+
+---
+
+¿Hablamos? Estoy siempre abierto a nuevas oportunidades, retos tecnológicos y colaboraciones.
+
